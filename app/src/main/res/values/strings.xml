@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="resetAllValues">Start Over</string>
+    <string name="initialValueScoreAteam">0</string>
+    <string name="initialValueFoulsATeam">0</string>
+    <string name="scoreGoalText">GOAAALL !</string>
+    <string name="foulText">Foul</string>
+    <string name="initialValueScoreBteam">0</string>
+    <string name="initialValueFoulsBTeam">0</string>
+    <string name="background_image_layout_height">20dp</string>
+</resources>
